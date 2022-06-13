@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "leonardo_firmo@email.com",
+      "password": "$2a$10$n7M/ip2nJNct9VdG0bpWaO314.A3d/l3IDGs/vBtQrvCBtvKC8I..",
+      "nome": "leo",
+      "id": 1
+    },
+    {
+      "email": "leo@email.com",
+      "password": "$2a$10$JQaTquiHL5sS8qrY8VY1EuT2N6ITVyE.loaMrxBWsFSpEMh/DKCXy",
+      "nome": "leo",
+      "id": 2
+    }
+  ]
+}
